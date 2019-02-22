@@ -15,7 +15,7 @@ ms.locfileid: "50620148"
 ---
 # <a name="whats-new-for-visual-c-in-visual-studio-2017"></a>Novedades de Visual C++ en Visual Studio 2017
 
-Visual Studio 2017 incluye muchas actualizaciones y revisiones del entorno de Visual C++. Hemos corregido más de 250 errores y problemas en el compilador y en las herramientas. Muchos los han enviado los clientes a través de las opciones [Notificar un problema](/visualstudio/how-to-report-a-problem-with-visual-studio-2017) y [Proporcionar una sugerencia](https://visualstudio.uservoice.com/) en **Enviar comentarios**. ¡Muchas gracias por notificárnoslos! Para obtener más información sobre todas las novedades de Visual Studio, visite [Novedades de Visual Studio 2017](/visualstudio/ide/whats-new-in-visual-studio).
+Visual Studio 2017 incluye muchas actualizaciones y revisiones del entorno de Visual C++. Hemos corregido más de 250 errores y problemas en el compilador y en las herramientas. Muchos de estos errores los han enviado los clientes a través de las opciones [Notificar un problema](/visualstudio/how-to-report-a-problem-with-visual-studio-2017) y [Proporcionar una sugerencia](https://visualstudio.uservoice.com/) en **Enviar comentarios**. ¡Muchas gracias por notificárnoslos! Para obtener más información sobre todas las novedades de Visual Studio, visite [Novedades de Visual Studio 2017](/visualstudio/ide/whats-new-in-visual-studio).
 
 <!--The compiler and tools version number in Visual Studio 2017 is 14.10.24629. -->
 
