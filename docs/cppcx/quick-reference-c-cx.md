@@ -11,7 +11,7 @@ ms.locfileid: "50445336"
 ---
 # <a name="quick-reference-ccx"></a>Referencia rápida (C++/CX)
 
-El tiempo de ejecución de Windows es compatible con aplicaciones de plataforma Universal de Windows (UWP) que se ejecutan únicamente en un entorno de sistema operativo de confianza, utilizan funciones, tipos de datos y dispositivos autorizados y se distribuyen a través de la Microsoft Store. C++ / c++ / CX simplifican la escritura de aplicaciones de Windows en tiempo de ejecución. En este artículo es una referencia rápida; Para obtener documentación más completa, consulte [Type System](../cppcx/type-system-c-cx.md).
+El tiempo de ejecución de Windows es compatible con aplicaciones de la plataforma Universal de Windows (UWP) que se ejecutan únicamente en un entorno de sistema operativo de confianza, utilizan funciones, tipos de datos y dispositivos autorizados y se distribuyen a través de la Microsoft Store. C++ / c++ / CX simplifican la escritura de aplicaciones de Windows en tiempo de ejecución. En este artículo es una referencia rápida; Para obtener documentación más completa, consulte [Type System](../cppcx/type-system-c-cx.md).
 
 Cuando se compila en la línea de comandos, utilice el **/ZW** opción del compilador para generar una aplicación para UWP o componente en tiempo de ejecución de Windows. Para obtener acceso a las declaraciones de Windows en tiempo de ejecución, que se definen en los archivos de metadatos (.winmd) de Windows en tiempo de ejecución, especifique el `#using` directiva o la **/FU** opción del compilador. Cuando se crea un proyecto para una aplicación para UWP, Visual Studio de forma predeterminada establece estas opciones y agrega las referencias a todas las bibliotecas en tiempo de ejecución de Windows.
 
