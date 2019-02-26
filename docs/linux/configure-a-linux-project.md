@@ -83,7 +83,7 @@ Esta funcionalidad depende de que el equipo Linux tenga instalado zip. Puede ins
 apt install zip
 ```
 
-Para administrar la caché de encabezados, vaya a **Herramientas > Opciones, multiplataforma > Connection Manager > Administrador de IntelliSense de encabezados remotos**. Para actualizar la caché de encabezados después de realizar cambios en el equipo Linux, seleccione la conexión remota y, después, haga clic en **Actualizar**. Haga clic en **Eliminar** para quitar los encabezados sin eliminar la propia conexión. Haga clic en **Explorar** para abrir el directorio local en el **Explorador de archivos**. Trate a esta carpeta como de solo lectura. Para descargar los encabezados de una conexión existente que se creó antes de la versión 15.3, seleccione la conexión y, después, haga clic en **Descargar**.
+Para administrar la caché de encabezados, vaya a **Herramientas > Opciones, multiplataforma > Connection Manager > Administrador de IntelliSense de encabezados remotos**. Para actualizar la caché de encabezados después de realizar cambios en el equipo Linux, seleccione la conexión remota y, posteriormente, haga clic en **Actualizar**. Haga clic en **Eliminar** para quitar los encabezados sin eliminar la propia conexión. Haga clic en **Explorar** para abrir el directorio local en el **Explorador de archivos**. Trate a esta carpeta como de solo lectura. Para descargar los encabezados de una conexión existente que se creó antes de la versión 15.3, seleccione la conexión y, después, haga clic en **Descargar**.
 
 ![IntelliSense de encabezados remotos](media/remote-header-intellisense.png)
 
